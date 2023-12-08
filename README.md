@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadab Khan</h1>
 <h3 align="center">Exploring the Frontiers of Web Development: Learning, Creating, and Contributing to the Open-Source Community</h3>
 
-- 🔭 I’m currently working on [Food Comet](https://github.com/shadab15github/Unwind.git)
+- 🔭 I’m currently working on [Food Comet]([https://github.com/shadab15github/Unwind.git](https://foodcomet.app/))
 
 - 🌱 I’m currently learning **ReactJS**
 
